@@ -6,7 +6,7 @@ def read(fname, encoding='utf-8'):
         return f.read()
 
 setup(
-    name='PyStudyDesign',
+    name='ExperimentsPyDesign',
     packages=find_packages(),
     version='0.1.0',
     description='Experimental Designs in Python with additional tooling',
